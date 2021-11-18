@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi, I'm Uche 👋🏾 👨🏾‍💻
+
+I'm a software engineer who is passionate about making things that make a difference on the internet, and tech for social good. Some technologies I enjoy working with include Vue, Flutter, ReactJS, Jamstack (JavaScript, APIs + Markup), Node and GraphQL.
 
 <!--
+### Find me around the web
+
 **UcheAzubuko/UcheAzubuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
