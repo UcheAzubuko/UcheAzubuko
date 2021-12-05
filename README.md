@@ -1,6 +1,6 @@
 ## Hi, I'm Uche 👋🏾 👨🏾‍💻
 
-I'm a software engineer who is passionate about making things that make a difference on the internet, and tech for social good. Some technologies I enjoy working with include Vue, Flutter, ReactJS, JAMstack (JavaScript, APIs + Markup), Node and GraphQL.
+I'm a software engineer who is passionate about making things that make a difference on the internet, and tech for social good. Some technologies I enjoy working with include Vue, Flutter, ReactJS, JAMstack (JavaScript, APIs + Markup), Node, and GraphQL.
 
 <!--
 ### Find me around the web
