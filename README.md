@@ -1,6 +1,6 @@
 ## Hi, I'm Uche 👋🏾 👨🏾‍💻
 
-I am a mission-driven and eternally-curious Software Engineer and STEM Educator passionate about making things that make a difference on the internet, tech for social good, and teaching people how to make quality software. Some technologies I enjoy working with include JavaScript, TypeScript, Vue, Flutter, React, GSAP, JAMstack (JavaScript, APIs + Markup), Node, and GraphQL.
+I am a mission-driven and eternally-curious frontend engineer and developer educator passionate about making things that make a difference on the internet, tech for social good, and teaching people how to make quality software. Some technologies I enjoy working with include JavaScript, TypeScript, Vue, Flutter, React, GSAP, JAMstack (JavaScript, APIs + Markup), Node, and GraphQL.
 
 <!--
 ### Find me around the web
