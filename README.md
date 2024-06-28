@@ -1,7 +1,6 @@
 ## Hi, I'm Uchechukwu Azubuko 👋🏾 👨🏾‍💻
 
-I am a mission-driven and eternally-curious Frontend Engineer and Developer Educator passionate about making things that make a difference on the internet, tech for social good, and teaching people how to make quality software. Some technologies I enjoy working with include JavaScript, TypeScript, Vue, Flutter, React, GSAP, JAMstack (JavaScript, APIs + Markup), Node, GraphQL, Artificial Intelligence, and Blockchain.
-
+I am a mission-driven and eternally curious Frontend Engineer and Developer Educator passionate about making things that make a difference on the internet, tech for social good, and teaching people how to make quality software. Some technologies I enjoy working with include JavaScript, TypeScript, Vue, Flutter, React, Greensock (GSAP), JAMstack (JavaScript, APIs + Markup), Node, GraphQL, Artificial Intelligence, and Blockchain.
 <!--
 ### Find me around the web
 
